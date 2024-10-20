@@ -1,8 +1,8 @@
 {
-  ya: "https://ya.ru/?q=%s",
-  yapic: "https://ya.ru/images/search/?text=%s",
-  yaeu: "https://yandex.eu/search/?text=%s",
-  yaeupic: "https://yandex.eu/images/search?text=%s",
-  google: "https://google.com/search?q=%s",
-  googlepic: "https://google.com/search?q=%s&udm=2"
+  "ya": "https://ya.ru/?q=%s",
+  "yapic": "https://ya.ru/images/search/?text=%s",
+  "yaeu": "https://yandex.eu/search/?text=%s",
+  "yaeupic": "https://yandex.eu/images/search?text=%s",
+  "google": "https://google.com/search?q=%s",
+  "googlepic": "https://google.com/search?q=%s&udm=2"
 }
